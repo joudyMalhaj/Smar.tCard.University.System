@@ -1,0 +1,14 @@
+C:\Users\eng.joudy.alhaj\Desktop\uml project\hikmat\hikmat\obj\Debug\net10.0\hikmat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eng.joudy.alhaj\Desktop\uml project\hikmat\hikmat\obj\Debug\net10.0\hikmat.AssemblyInfoInputs.cache
+C:\Users\eng.joudy.alhaj\Desktop\uml project\hikmat\hikmat\obj\Debug\net10.0\hikmat.AssemblyInfo.cs
+C:\Users\eng.joudy.alhaj\Desktop\uml project\hikmat\hikmat\obj\Debug\net10.0\hikmat.csproj.CoreCompileInputs.cache
+C:\Users\eng.joudy.alhaj\Desktop\uml project\hikmat\hikmat\bin\Debug\net10.0\hikmat.exe
+C:\Users\eng.joudy.alhaj\Desktop\uml project\hikmat\hikmat\bin\Debug\net10.0\hikmat.deps.json
+C:\Users\eng.joudy.alhaj\Desktop\uml project\hikmat\hikmat\bin\Debug\net10.0\hikmat.runtimeconfig.json
+C:\Users\eng.joudy.alhaj\Desktop\uml project\hikmat\hikmat\bin\Debug\net10.0\hikmat.dll
+C:\Users\eng.joudy.alhaj\Desktop\uml project\hikmat\hikmat\bin\Debug\net10.0\hikmat.pdb
+C:\Users\eng.joudy.alhaj\Desktop\uml project\hikmat\hikmat\obj\Debug\net10.0\hikmat.dll
+C:\Users\eng.joudy.alhaj\Desktop\uml project\hikmat\hikmat\obj\Debug\net10.0\refint\hikmat.dll
+C:\Users\eng.joudy.alhaj\Desktop\uml project\hikmat\hikmat\obj\Debug\net10.0\hikmat.pdb
+C:\Users\eng.joudy.alhaj\Desktop\uml project\hikmat\hikmat\obj\Debug\net10.0\hikmat.genruntimeconfig.cache
+C:\Users\eng.joudy.alhaj\Desktop\uml project\hikmat\hikmat\obj\Debug\net10.0\ref\hikmat.dll

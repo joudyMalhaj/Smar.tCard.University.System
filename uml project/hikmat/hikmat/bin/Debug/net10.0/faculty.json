@@ -1,0 +1,26 @@
+[
+  {
+    "TaughtCourses": [
+      "CPE100",
+      "CIS300"
+    ],
+    "taughtCourses": [
+      "CPE100",
+      "CIS300"
+    ],
+    "UserID": "F01",
+    "Name": "Sami"
+  },
+  {
+    "TaughtCourses": [
+      "NES200",
+      "SE400"
+    ],
+    "taughtCourses": [
+      "NES200",
+      "SE400"
+    ],
+    "UserID": "F02",
+    "Name": "Eman"
+  }
+]

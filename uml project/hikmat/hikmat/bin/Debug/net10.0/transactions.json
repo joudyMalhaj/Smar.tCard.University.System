@@ -1,0 +1,8 @@
+[
+  {
+    "TransactionID": "2",
+    "CardNumber": 20,
+    "Type": "payment",
+    "Amount": "L"
+  }
+]

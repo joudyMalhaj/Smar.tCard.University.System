@@ -1,0 +1,14 @@
+C:\Users\eng.joudy.alhaj\Desktop\uml project\final submit\final submit\bin\Debug\net10.0\final submit.exe
+C:\Users\eng.joudy.alhaj\Desktop\uml project\final submit\final submit\bin\Debug\net10.0\final submit.deps.json
+C:\Users\eng.joudy.alhaj\Desktop\uml project\final submit\final submit\bin\Debug\net10.0\final submit.runtimeconfig.json
+C:\Users\eng.joudy.alhaj\Desktop\uml project\final submit\final submit\bin\Debug\net10.0\final submit.dll
+C:\Users\eng.joudy.alhaj\Desktop\uml project\final submit\final submit\bin\Debug\net10.0\final submit.pdb
+C:\Users\eng.joudy.alhaj\Desktop\uml project\final submit\final submit\obj\Debug\net10.0\final submit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eng.joudy.alhaj\Desktop\uml project\final submit\final submit\obj\Debug\net10.0\final submit.AssemblyInfoInputs.cache
+C:\Users\eng.joudy.alhaj\Desktop\uml project\final submit\final submit\obj\Debug\net10.0\final submit.AssemblyInfo.cs
+C:\Users\eng.joudy.alhaj\Desktop\uml project\final submit\final submit\obj\Debug\net10.0\final submit.csproj.CoreCompileInputs.cache
+C:\Users\eng.joudy.alhaj\Desktop\uml project\final submit\final submit\obj\Debug\net10.0\final submit.dll
+C:\Users\eng.joudy.alhaj\Desktop\uml project\final submit\final submit\obj\Debug\net10.0\refint\final submit.dll
+C:\Users\eng.joudy.alhaj\Desktop\uml project\final submit\final submit\obj\Debug\net10.0\final submit.pdb
+C:\Users\eng.joudy.alhaj\Desktop\uml project\final submit\final submit\obj\Debug\net10.0\final submit.genruntimeconfig.cache
+C:\Users\eng.joudy.alhaj\Desktop\uml project\final submit\final submit\obj\Debug\net10.0\ref\final submit.dll

@@ -1,0 +1,30 @@
+[
+  {
+    "UserID": "F02",
+    "CardNumber": 10,
+    "Balance": 80,
+    "Status": "unblocked",
+    "Type": "faculty member"
+  },
+  {
+    "UserID": "S02",
+    "CardNumber": 20,
+    "Balance": 105,
+    "Status": "unblocked",
+    "Type": "student"
+  },
+  {
+    "UserID": "S03",
+    "CardNumber": 30,
+    "Balance": 95,
+    "Status": "blocked",
+    "Type": "student"
+  },
+  {
+    "UserID": "S04",
+    "CardNumber": 40,
+    "Balance": 160,
+    "Status": "unblocked",
+    "Type": "student"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "RegisteredCourses": [
+      "CPE100",
+      "SE400"
+    ],
+    "registeredCourses": [
+      "CPE100",
+      "SE400"
+    ],
+    "UserID": "S01",
+    "Name": "Ali"
+  },
+  {
+    "RegisteredCourses": [
+      "CPE100",
+      "NES200"
+    ],
+    "registeredCourses": [
+      "CPE100",
+      "NES200"
+    ],
+    "UserID": "S02",
+    "Name": "Omar"
+  },
+  {
+    "RegisteredCourses": [
+      "NES200",
+      "CIS300",
+      "SE400"
+    ],
+    "registeredCourses": [
+      "NES200",
+      "CIS300",
+      "SE400"
+    ],
+    "UserID": "S03",
+    "Name": "Reem"
+  },
+  {
+    "RegisteredCourses": [
+      "CPE100",
+      "SE400"
+    ],
+    "registeredCourses": [
+      "CPE100",
+      "SE400"
+    ],
+    "UserID": "S04",
+    "Name": "Maher"
+  }
+]
